@@ -9,3 +9,6 @@ _Elaborado por: Grupo_01 (Oyentes)_
 * Rocamora, Leandro<br/>
 * Suli, Solange<br/>
 ___
+
+Link a al video de presentación:
+[https://youtu.be/XxtFbrNYeCY](https://youtu.be/XxtFbrNYeCY)
